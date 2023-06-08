@@ -9,5 +9,5 @@ Herein, the NGOs log in and provide extensive details of their previous experien
 With thousands of NGOs listed down, the user can simply filter out the most relevant ones to start a conversation. Following the outcome of the conversation, the NGO can reach the spot after the completion of the program to collect the food bulk to further distribute it amongst the needful.
 
 # Challenges we ran into
-Being non-proficient with the team, we weren’t able to store the data submitted by the user in real-time. Had this been done we could work out a fully functional and operational project.
+Being non-proficient with the backend, we weren’t able to store the data submitted by the user in real-time. Had this been done we could work out a fully functional and operational project.
 We also felt that the knowledge of Machine Learning could have worked out a long way to understand how to optimally suggest NGOs to the users based on more filter options and understanding the pattern in the behavior of the previous users.
